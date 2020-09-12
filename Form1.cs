@@ -12,7 +12,7 @@ namespace SHS
 {
 	public partial class Form1 : Form
 	{
-		ComplexNum A, B, C, D, X;
+		ComplexNum A, B, C, D, X;тмит
 
 		public Form1()
 		{
